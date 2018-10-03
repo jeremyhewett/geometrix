@@ -1,0 +1,2 @@
+# geometrix
+Bicycle geometry calculator
